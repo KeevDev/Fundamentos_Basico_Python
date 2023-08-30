@@ -1,12 +1,7 @@
-from api import *
+from api.api_module import lo_logre
+import sys
+sys.path.append('C:/Users/angie/OneDrive/EscritorioProyecto_ProgramacionIV')
 
-# def main():
-#     print("DIGITE SU\n")
-#     print("Departamento:")
-#     print("Municipio:")
-#     print("Cultivo:")
+
 
 lo_logre()
-
-
-
