@@ -14,4 +14,6 @@ results = client.get("ch4u-f3i5", limit=2000)
 
 # Convert to pandas DataFrame
 results_df = pd.DataFrame.from_records(results)
-    
+
+def lo_logre():
+    print("Si sali")
